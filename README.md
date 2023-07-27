@@ -1,2 +1,2 @@
 # competitive-coding
-Questions practiced for comp coding
+Questions practiced for Interview Preparation
