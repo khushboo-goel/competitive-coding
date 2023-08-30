@@ -7,3 +7,4 @@ Notes:
 
 ### Learnings:
 1. For graph algorithms, undirected graphs uses `visited` approach vs directed graph uses `indegree` approach to traverse a graph.
+2. You need to count all nodes traversed to detect `cycle` in a graph (mainly in Topological Sorting). If no of nodes traversed is not total nodes, there is either a connection break or cycle.
