@@ -1,5 +1,4 @@
 // https://leetcode.com/problems/reverse-integer/description/
-// NOT the best approach since the question says environment doesnt support 64-bit integer and we used long long.
 
 int reverse(int x) {
   int reverse = 0;
