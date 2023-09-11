@@ -2,10 +2,10 @@
 ## Topics to cover
 1. Basic graph traversal using BFS and DFS.
 2. Disjoint sets and Union & Find Algorithm (Nice video by [Abdul Bari](https://www.youtube.com/watch?v=wU6udHRIkcc)).
-3. Finding minimum spanning tree (any of prims or kruskal's is fine, prim's use greedy and union find).
-4. Topological Sorting
-5. Finding cycles in the graph (can be done by 1 or 2)
-6. Connected components (can be done by 1 or 2)
+3. Finding minimum spanning tree (any of prims or kruskal's is fine, Kruskal's use greedy and union find).
+4. Topological Sorting 
+5. Finding cycles in the graph
+6. Connected components
 7. Shortest Distances (mostly using Dijsktra).
 
 ## Learnings:
