@@ -1,4 +1,4 @@
-#Graphs
+# Graphs
 ## Topics to cover
 1. Basic graph traversal using BFS and DFS.
 2. Union Find Algo
