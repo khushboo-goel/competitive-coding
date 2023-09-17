@@ -15,4 +15,4 @@
 ## Union Find:
 1. If we add an edge, we find both vertices and see in which set they belong.
 2. If they belong to same set, there is a cycle.
-![Notes](/image.heic)
+![Notes](./IMG_6287.HEIC)
