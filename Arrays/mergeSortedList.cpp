@@ -43,3 +43,41 @@ void Solution::merge(vector<int> &A, vector<int> &B) {
 }
 
 // https://www.interviewbit.com/problems/merge-two-sorted-lists-ii/
+
+
+
+
+/* -------------------------------------------------------------------------------------------------------------------------------------------------------- */
+/* SIMILAR QUESTION WITH MORE OPTIMISED SOLUTION */
+// https://leetcode.com/problems/merge-sorted-array/description/
+
+void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
+        // three pointer technique
+        int x = m - 1;
+        int y = m + n - 1;
+        int z = n - 1;
+
+        if (m == 0) {
+            nums1 = nums2;
+        }
+        while(z >= 0 && x >= 0) {
+            // last of larger array is less than smaller array
+            if (nums1[x] < nums2[z]) {
+                nums1[y] = nums2[z];
+                y--;
+                z--;
+            } else {
+                nums1[y] = nums1[x];
+                y--;
+                x--;
+            }
+        }
+
+        if (z >= 0) {
+            while(z >= 0) {
+                nums1[y] = nums2[z];
+                y--;
+                z--;
+            }
+        }
+    }
