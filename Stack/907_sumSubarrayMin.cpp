@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/sum-of-subarray-minimums/description/
+// For reference : https://www.youtube.com/watch?v=HRQB7-D2bi0
 
 int sumSubarrayMins(vector<int>& arr) {
     int MOD = 1000000007;
