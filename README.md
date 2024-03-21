@@ -1,7 +1,7 @@
 # competitive-coding
-Questions practiced for Interview Preparation
+Questions practiced for Interview Preparation along with resources to learn more
 
-Notes:
+### Notes:
 1. This repo does not contain the full code. It has only function specific to the logic of the problem solving.
 2. Questions and additional resources are attached in the file itself.
 
@@ -11,7 +11,8 @@ Notes:
 ### Sliding Window:
 ### Hashmap with array:
 ### Greedy:
-### Dynamic Programming:
+### Dynamic Programming (1D):
+### DP (2D):
 ### DP with Binary Search:
 ### Binary Search Only:
 ### Monotonic Stack/Queue:
@@ -20,4 +21,7 @@ Notes:
 ### BFS/DFS (undirected):
 ### BFS/DFS (directed):
 ### Topological Sorting:
-### Trie
+### Union Find:
+### Trie:
+### String Manipulation:
+### Bit Manipulation:
