@@ -1,6 +1,6 @@
 // https://leetcode.com/problems/word-break/description/
 
-// This might seem like a simple string manipulation, but it is a mixture of trie and DP
+// This might seem like a simple string manipulation, but it is a mixture of trie and DP, Added this solution in trie
 bool wordBreak(string s, vector<string>& wordDict) {
         int len = wordDict.size();
         map<string, int> dict;
