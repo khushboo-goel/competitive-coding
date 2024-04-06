@@ -7,21 +7,23 @@ Questions practiced for Interview Preparation along with resources to learn more
 
 
 ## Revision Notes for Interview:
-### Kadane Algorithm:
-### Sliding Window:
-### Hashmap with array:
-### Greedy:
-### Dynamic Programming (1D):
+## Array:
+### Kadane Algorithm
+### Sliding Window
+### Hashmap with array
+### Two pointer approach:
+## Greedy:
+## Dynamic Programming (1D):
 ### DP (2D):
 ### DP with Binary Search:
-### Binary Search Only:
-### Monotonic Stack/Queue:
-### LinkedList:
+## Binary Search Only:
+## Monotonic Stack/Queue:
+## LinkedList:
 ### Trees:
-### BFS/DFS (undirected):
+## BFS/DFS (undirected):
 ### BFS/DFS (directed):
 ### Topological Sorting:
 ### Union Find:
-### Trie:
-### String Manipulation:
-### Bit Manipulation:
+## Trie:
+## String Manipulation:
+## Bit Manipulation:
