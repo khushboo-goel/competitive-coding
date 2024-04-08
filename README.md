@@ -12,7 +12,7 @@ Questions practiced for Interview Preparation along with resources to learn more
 ### Sliding Window
 ### Hashmap with array
 ### Two pointer approach:
-1. Container with Most Water [https://leetcode.com/problems/container-with-most-water/description/]
+1. [Container with Most Water](https://leetcode.com/problems/container-with-most-water/description/) : [Solution](https://github.com/khushboo-goel/competitive-coding/blob/main/Arrays/maxContainWater.cpp)
 ## Greedy:
 ## Dynamic Programming (1D):
 ### DP (2D):
