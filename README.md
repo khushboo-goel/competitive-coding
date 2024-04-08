@@ -8,7 +8,8 @@ Questions practiced for Interview Preparation along with resources to learn more
 
 ## Revision Notes for Interview:
 ## Array:
-### Kadane Algorithm
+### Kadane Algorithm:
+1. [Winner of Array Game](https://leetcode.com/problems/find-the-winner-of-an-array-game/description/): [Solution](https://github.com/khushboo-goel/competitive-coding/blob/main/Arrays/1538_winner.cpp)
 ### Sliding Window
 ### Hashmap with array
 ### Two pointer approach:
