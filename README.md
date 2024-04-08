@@ -10,6 +10,7 @@ Questions practiced for Interview Preparation along with resources to learn more
 ## Array:
 ### Kadane Algorithm:
 1. [Winner of Array Game](https://leetcode.com/problems/find-the-winner-of-an-array-game/description/): [Solution](https://github.com/khushboo-goel/competitive-coding/blob/main/Arrays/1538_winner.cpp)
+2. [Gas Station](https://leetcode.com/problems/gas-station/description/?envType=list&envId=pcxjbubg) : [Solution](https://github.com/khushboo-goel/competitive-coding/blob/main/Greedy/134_gasStation.cpp)
 ### Sliding Window
 ### Hashmap with array
 ### Two pointer approach:
