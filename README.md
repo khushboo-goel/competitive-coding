@@ -15,6 +15,9 @@ Questions practiced for Interview Preparation along with resources to learn more
 ### Hashmap with array
 ### Two pointer approach:
 1. [Container with Most Water](https://leetcode.com/problems/container-with-most-water/description/) : [Solution](https://github.com/khushboo-goel/competitive-coding/blob/main/Arrays/maxContainWater.cpp)
+
+## Heap/Priority Queue:
+1. [K closest elements](https://leetcode.com/problems/find-k-closest-elements/description/) : [Solution](https://github.com/khushboo-goel/competitive-coding/blob/main/Queue/kClosestEl.cpp)
 ## Greedy:
 ## Dynamic Programming (1D):
 ### DP (2D):
