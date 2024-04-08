@@ -1,12 +1,14 @@
 # competitive-coding
 Questions practiced for Interview Preparation along with resources to learn more
 
-### Notes:
+## Notes:
 1. This repo does not contain the full code. It has only function specific to the logic of the problem solving.
 2. Questions and additional resources are attached in the file itself.
 
 
 ## Revision Notes for Interview:
+Curating a list of questions which needs to be seen and revised before any coding interviews.
+
 ## Array:
 ### Kadane Algorithm:
 1. [Winner of Array Game](https://leetcode.com/problems/find-the-winner-of-an-array-game/description/): [Solution](https://github.com/khushboo-goel/competitive-coding/blob/main/Arrays/1538_winner.cpp)
