@@ -14,7 +14,8 @@ Curating a list of questions which needs to be seen and revised before any codin
 1. [Winner of Array Game](https://leetcode.com/problems/find-the-winner-of-an-array-game/description/): [Solution](https://github.com/khushboo-goel/competitive-coding/blob/main/Arrays/1538_winner.cpp)
 2. [Gas Station](https://leetcode.com/problems/gas-station/description/?envType=list&envId=pcxjbubg) : [Solution](https://github.com/khushboo-goel/competitive-coding/blob/main/Greedy/134_gasStation.cpp)
 ### Sliding Window
-### Hashmap with array
+### Hashmap with array:
+1. [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/) : [Solution](https://github.com/khushboo-goel/competitive-coding/blob/main/Arrays/560_subarraySumK.cpp)
 ### Two pointer approach:
 1. [Container with Most Water](https://leetcode.com/problems/container-with-most-water/description/) : [Solution](https://github.com/khushboo-goel/competitive-coding/blob/main/Arrays/maxContainWater.cpp)
 
