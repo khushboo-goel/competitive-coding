@@ -22,7 +22,7 @@ Curating a list of questions which needs to be seen and revised before any codin
 ## Heap/Priority Queue:
 1. [K closest elements](https://leetcode.com/problems/find-k-closest-elements/description/) : [Solution](https://github.com/khushboo-goel/competitive-coding/blob/main/Queue/kClosestEl.cpp)
 ## Greedy:
-## Dynamic Programming (1D):
+## Dynamic Programming(1D):
 ### DP (2D):
 ### DP with Binary Search:
 ## Binary Search Only:
