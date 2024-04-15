@@ -18,9 +18,12 @@ Curating a list of questions which needs to be seen and revised before any codin
 1. [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/) : [Solution](https://github.com/khushboo-goel/competitive-coding/blob/main/Arrays/560_subarraySumK.cpp)
 ### Two pointer approach:
 1. [Container with Most Water](https://leetcode.com/problems/container-with-most-water/description/) : [Solution](https://github.com/khushboo-goel/competitive-coding/blob/main/Arrays/maxContainWater.cpp)
+### Intervals:
+1. [Calender-II] (https://leetcode.com/problems/my-calendar-iii/description/): Solution
 
 ## Heap/Priority Queue:
 1. [K closest elements](https://leetcode.com/problems/find-k-closest-elements/description/) : [Solution](https://github.com/khushboo-goel/competitive-coding/blob/main/Queue/kClosestEl.cpp)
+
 ## Greedy:
 ## Dynamic Programming(1D):
 ### DP (2D):
