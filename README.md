@@ -10,6 +10,8 @@ Questions practiced for Interview Preparation along with resources to learn more
 Curating a list of questions which needs to be seen and revised before any coding interviews.
 
 ## Array:
+### O(n) time, space complexity questions:
+1. [Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/): [Solution]()
 ### Kadane Algorithm:
 1. [Winner of Array Game](https://leetcode.com/problems/find-the-winner-of-an-array-game/description/): [Solution](https://github.com/khushboo-goel/competitive-coding/blob/main/Arrays/1538_winner.cpp)
 2. [Gas Station](https://leetcode.com/problems/gas-station/description/?envType=list&envId=pcxjbubg) : [Solution](https://github.com/khushboo-goel/competitive-coding/blob/main/Greedy/134_gasStation.cpp)
