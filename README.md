@@ -18,6 +18,9 @@ Curating a list of questions which needs to be seen and revised before any codin
 ### Sliding Window
 Hack to use: Contigous subarray or substring with some conditions of frequency.
 1. [Subarray with K sum](https://leetcode.com/problems/subarray-product-less-than-k/): [Solution](https://github.com/khushboo-goel/competitive-coding/blob/main/Arrays/713_subarray_k_product.cpp)
+2. [Longest Repeating Element](https://leetcode.com/problems/longest-repeating-character-replacement/): [Solution](https://github.com/khushboo-goel/competitive-coding/blob/main/Arrays/424_longestRepeatingChar.cpp)
+3. [Min Ops to reduce to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/): [Solution](https://github.com/khushboo-goel/competitive-coding/blob/main/Arrays/1658_reduceXToZero.cpp)
+4. [Substring with K repeating Elememts](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/): [Solution](https://github.com/khushboo-goel/competitive-coding/blob/main/Arrays/395_substringKrepeating.cpp)
 ### Hashmap with array:
 1. [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/) : [Solution](https://github.com/khushboo-goel/competitive-coding/blob/main/Arrays/560_subarraySumK.cpp)
 ### Two pointer approach:
