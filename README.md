@@ -17,6 +17,7 @@ Curating a list of questions which needs to be seen and revised before any codin
 2. [Gas Station](https://leetcode.com/problems/gas-station/description/?envType=list&envId=pcxjbubg) : [Solution](https://github.com/khushboo-goel/competitive-coding/blob/main/Greedy/134_gasStation.cpp)
 ### Sliding Window
 Hack to use: Contigous subarray or substring with some conditions of frequency.
+1. [Subarray with K sum](https://leetcode.com/problems/subarray-product-less-than-k/): [Solution](https://github.com/khushboo-goel/competitive-coding/blob/main/Arrays/713_subarray_k_product.cpp)
 ### Hashmap with array:
 1. [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/) : [Solution](https://github.com/khushboo-goel/competitive-coding/blob/main/Arrays/560_subarraySumK.cpp)
 ### Two pointer approach:
