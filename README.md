@@ -1,4 +1,4 @@
-# competitive-coding
+# DSA and Coding:
 Questions practiced for Interview Preparation along with resources to learn more
 
 ## Notes:
@@ -39,10 +39,11 @@ Hack to use: Contigous subarray or substring with some conditions of frequency.
 ## Monotonic Stack/Queue:
 ## LinkedList:
 ### Trees:
-## BFS/DFS (undirected):
-### BFS/DFS (directed):
-### Topological Sorting:
+## Graphs:
+1. What can be imagined as a graph ? : Swap in a vector can be imagined as a graph
+### BFS/DFS:
 ### Union Find:
+### Topological Sorting:
 ## Trie:
 ## String Manipulation:
 ## Bit Manipulation:
