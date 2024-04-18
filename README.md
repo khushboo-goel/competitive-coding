@@ -30,6 +30,9 @@ Hack to use: Contigous subarray or substring with some conditions of frequency.
 
 ## Heap/Priority Queue:
 1. [K closest elements](https://leetcode.com/problems/find-k-closest-elements/description/) : [Solution](https://github.com/khushboo-goel/competitive-coding/blob/main/Queue/kClosestEl.cpp)
+2. [K Largest Element](https://leetcode.com/problems/kth-largest-element-in-an-array/description/): [Solution]()
+3. https://leetcode.com/problems/meeting-rooms-iii/description/
+5. https://leetcode.com/problems/find-median-from-data-stream/description/
 
 ## Greedy:
 ## Dynamic Programming(1D):
