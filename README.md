@@ -57,4 +57,6 @@ Hack to use: Contigous subarray or substring with some conditions of frequency.
 
 
 Revision Notes:
+
 | Problems Name | Tags | Problem Link | Solution Link | One line Revision Solution |
+| -----         | ---- | ------       | -----------   | ------- |
