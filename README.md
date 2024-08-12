@@ -1,4 +1,4 @@
-# DSA and Coding:
+# DSA for Interview Preps:
 Questions practiced for Interview Preparation along with resources to learn more
 
 ## Notes:
@@ -54,3 +54,7 @@ Hack to use: Contigous subarray or substring with some conditions of frequency.
 ## Bit Manipulation:
 ## Backtracking:
 1. https://leetcode.com/problems/subsets/
+
+
+Revision Notes:
+| Problems Name | Tags | Problem Link | Solution Link | One line Revision Solution |
