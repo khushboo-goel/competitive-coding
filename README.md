@@ -5,7 +5,9 @@ Questions practiced for Interview Preparation along with resources to learn more
 1. This repo does not contain the full code. It has only function specific to the logic of the problem solving.
 2. Questions and additional resources are attached in the file itself.
 
-
+## Videos for Learning Best:
+1. [Buy and Sell Stocks (All versions)](https://www.youtube.com/watch?v=2FROyvnnrrM)
+   
 ## Revision Notes for Interview:
 Curating a list of questions which needs to be seen and revised before any coding interviews.
 
